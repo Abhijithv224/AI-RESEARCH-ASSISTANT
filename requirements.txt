@@ -1,0 +1,10 @@
+streamlit
+pypdf
+faiss-cpu
+requests
+langchain
+langchain_community  
+sentence-transformers
+transformers
+torch   
+accelerate
